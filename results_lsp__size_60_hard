@@ -1,0 +1,9 @@
+/home/julio/Desktop/These/chineseNetwork/environement/bin/python /home/julio/Desktop/These/chineseNetwork/pretopologyx6/example_lsp.py
+the simulation took: 1153.149026632309
+the estimation took: 40.39001822471619
+the forbidden conj are: 
+[{0, 1, 5, 6}, {0, 3, 5, 7}, {0, 1, 6, 7}]
+the estimated dnf is: 
+[{2}, {4}, {1, 3}, {3, 6}, {1, 5, 7}, {5, 6, 7}]
+2160.0
+
